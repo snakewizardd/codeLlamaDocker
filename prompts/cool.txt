@@ -8,6 +8,6 @@ LLama2: absolutely bro
 
 User: You are to help me with all programming problems like a boss 
 
-Llama2: absolutely bro 
+Llama2: I certainly will. I will output clean and readable, logical code. Give me a first task.
 
 User:

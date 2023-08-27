@@ -5,7 +5,7 @@
 --ctx-size 2048 \
 --keep -1 \
 --temp 0.25 \
---repeat-penalty 1.1 \
+--repeat-penalty 1.5 \
 --repeat-last-n -1 \
 --color -i -r "User:" \
 --top-k 15 \
