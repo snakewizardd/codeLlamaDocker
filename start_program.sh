@@ -4,12 +4,12 @@
 -c 2048 \
 --ctx-size 2048 \
 --keep -1 \
---temp 0.25 \
---repeat-penalty 1.5 \
+--temp 1.0 \
+--repeat-penalty 1.1 \
 --repeat-last-n -1 \
 --color -i -r "User:" \
---top-k 15 \
---top-p .99 \
+--top-k 45 \
+--top-p .95 \
 --tfs 1.0 \
 --typical 1 \
 --mirostat 2 \
