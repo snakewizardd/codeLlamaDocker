@@ -1,8 +1,7 @@
 A Dockerized build for CodeLlama, using llama.cpp and ttyd web terminal
 
 - Drag your models into the folder to be mounted (in my case, CodeLlama-7b)
-- Build the image
-- Run the image, mounting your model
+- Build and run the image, mounting your model (use build.sh)
 - Access interactive codeLlama in your web browser on localhost:7681
 
 * Prompts folder is copied into the image
